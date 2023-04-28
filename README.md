@@ -21,7 +21,7 @@ __O sistema possui quatro funcionalidades principais:__
 ## 🛠️Como executar o aplicativo:
 __Para executar o aplicativo em uma máquina local, siga as seguintes etapas:__
 
-1.__[CLIQUE AQUI](https://github.com/cemeterydriiver/conversorTxtBionico/deployments/activity_log?environment=github-pages)__ para utiliza a aplicação.
+1.__[CLIQUE AQUI](https://cemeterydriiver.github.io/conversorTxtBionico/)__ para utiliza a aplicação.
 ### __ou:__
 
 1. Clone esse repositório em seu computador;
