@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Speed Bionic Reading</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Conversor de Texto Bionico</h1>
+      <form>
+        <textarea id="texto" placeholder="Digite o texto a ser convertido"></textarea>
+        <button type="button" onclick="converter()">Converter</button>
+      </form>
+      <div class="resultado">
+        <p id="bionico"></p>
+        <button id="copy-btn" onclick="copiar()">Copiar</button>
+      </div>
+      <button id="clear-btn">Limpar</button>
+    </div>
+    <div id="content"></div>
+    
+    <script src="detection.js"></script>
+    <script src="script.js"></script>
+  </body>
