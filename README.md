@@ -1,7 +1,7 @@
 # Conversor texto biônico
 _Essa é uma aplicação na qual tem como funcionalidade principal converter um texto comum para um texto biônico, afim de ajudar pessoas com dislexia, TEA e TDAH a ler texto em uma velocidade maior e manter o foco na leitura._
 
-__[CLIQUE AQUI](https://github.com/cemeterydriiver/conversorTxtBionico/deployments/activity_log?environment=github-pages)__ para utiliza a aplicação.
+__[CLIQUE AQUI](https://cemeterydriiver.github.io/conversorTxtBionico/)__ para utiliza a aplicação.
 
 ## 📜O que é leitura biônica?
 - A leitura biônica revisa os textos para que as partes mais concisas das palavras sejam destacadas. Isso guia o olho sobre o texto e o cérebro lembra mais rapidamente as palavras aprendidas anteriormente.
